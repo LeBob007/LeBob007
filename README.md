@@ -86,11 +86,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LeBob007&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LeBob007&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12185060692&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=28ae24&bar_color_cover=true" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **LeBob007/LeBob007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
